@@ -2,6 +2,6 @@
 
 
 - 👀 Focusing on Swift & iOS
-- 💰 Working on [@baidu](https://github.com/baidu)
-- 💉 Creator of [CarbonGraph](https://github.com/baidu/CarbonGraph) (A Swift DI framework)
+- 💰 Working on @baidu
+- 💉 Creator of [CarbonGraph](https://github.com/baidu/CarbonGraph)
 - 🔎 Looking for the community contributors of CarbonGraph
